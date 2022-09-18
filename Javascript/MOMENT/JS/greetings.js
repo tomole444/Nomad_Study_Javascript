@@ -26,3 +26,5 @@ if (savedUsername === null) {
 } else {
   paintGreetings(savedUsername);
 }
+
+const add = "안녕하세요";
