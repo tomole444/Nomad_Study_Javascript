@@ -1,0 +1,13 @@
+#form {
+  border: 1px solid red;
+  text-align: center;
+}
+
+#form > p {
+  font-size: 100px;
+}
+
+#txt {
+  width: 200px;
+  height: 90px;
+}
